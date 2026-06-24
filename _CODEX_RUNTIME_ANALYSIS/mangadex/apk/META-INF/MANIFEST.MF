@@ -1,0 +1,43 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: 
+
+Name: AndroidManifest.xml
+SHA-256-Digest: iACx5CGcuhjX9cktYlnkZ4GgUSELz//O33tfbhgwnrY=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: assets/i18n/messages_en.properties
+SHA-256-Digest: 5kDUAUbZftA76/kJlRCXZ4ihtfpQ7oUyWk8Po7y2KAA=
+
+Name: assets/i18n/messages_es.properties
+SHA-256-Digest: hbxdJSBNVKvNY6sf5+nOUaL4Qs01KeR4Vkugwpjt46c=
+
+Name: assets/i18n/messages_pt_br.properties
+SHA-256-Digest: y5oNFxY1d2HhyaCxOlXXXP+03ysJxQyUfPeOuQLOhkE=
+
+Name: assets/i18n/messages_ru.properties
+SHA-256-Digest: zp0ene6Eso2lZx7JyqBQ7pPTbAjGUpumzC/qMlmDkUE=
+
+Name: classes.dex
+SHA-256-Digest: NbCGc0ws1KqdWJqwg6gcbodFZB2ejZ2EJXD8idZ0NaE=
+
+Name: res/9w.png
+SHA-256-Digest: wfx+nLENXdNHnZp55vjNTFsnSxANhQpMpKDrSs368oo=
+
+Name: res/FS.png
+SHA-256-Digest: Cx6ultFobvxg2pfvDKB38nOAtvXwuC9KxCzfKdbts1M=
+
+Name: res/RJ.png
+SHA-256-Digest: cTTX5o7rH6b+BHnf9KlBPEvH+6JulY5RnFJs3bVDUfw=
+
+Name: res/o-.png
+SHA-256-Digest: YmDyw86MSfEX2aZMnurruDd6j5KQF8HKCLbQ5vCXUhw=
+
+Name: res/yn.png
+SHA-256-Digest: xg89OibtHlIX0PXAYVztq2vGYLHtmTEq6m7FWbGW5Q8=
+
+Name: resources.arsc
+SHA-256-Digest: jEXs8rJL6xXFXAl/u+Zjj4vWgwm/27kMfVYGLhgwcjk=
+

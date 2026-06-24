@@ -1,0 +1,75 @@
+{
+  "total": 69,
+  "passed": 69,
+  "failed": 0,
+  "failures": []
+}
+PASS | exists app/build.gradle.kts
+PASS | exists app/src/main/AndroidManifest.xml
+PASS | exists app/src/main/java/com/inku/app/MainActivity.kt
+PASS | exists app/src/main/java/com/inku/app/InkuPlayerActivity.kt
+PASS | exists app/src/main/java/com/inku/app/LibraryMembershipStore.kt
+PASS | exists app/src/main/java/com/inku/app/InkuDownloadService.kt
+PASS | exists app/src/main/java/com/inku/app/DownloadStore.kt
+PASS | exists app/src/main/java/com/inku/app/MediaThumbnail.kt
+PASS | exists app/src/main/java/com/inku/app/InkuFolderStore.kt
+PASS | exists app/src/main/java/com/inku/app/ExtensionStore.kt
+PASS | exists gradlew
+PASS | exists gradlew.bat
+PASS | exists settings.gradle.kts
+PASS | AndroidManifest XML parses
+PASS | Player activity registered
+PASS | Download service registered
+PASS | Internet permission
+PASS | version 0.13.0
+PASS | Media3 exoplayer dependency
+PASS | Media3 UI dependency
+PASS | jsoup dependency
+PASS | Kotlin delimiters InkuRuntimeSettings.kt
+PASS | Kotlin delimiters ExtensionStore.kt
+PASS | Kotlin delimiters DownloadStore.kt
+PASS | Kotlin delimiters MediaThumbnail.kt
+PASS | Kotlin delimiters InkuWebViewActivity.kt
+PASS | Kotlin delimiters LibraryCategoryStore.kt
+PASS | Kotlin delimiters InkuBackupStore.kt
+PASS | Kotlin delimiters InkuFolderStore.kt
+PASS | Kotlin delimiters InkuDownloadService.kt
+PASS | Kotlin delimiters LibraryMembershipStore.kt
+PASS | Kotlin delimiters InkuPlayerActivity.kt
+PASS | Kotlin delimiters MainActivity.kt
+PASS | Kotlin delimiters Color.kt
+PASS | Kotlin delimiters Theme.kt
+PASS | Kotlin delimiters Type.kt
+PASS | Horizontal category swipe
+PASS | Library membership filtering
+PASS | Clean Browse Anime Manga toggle
+PASS | Local Anime Browse source
+PASS | Local Manga Browse source
+PASS | Built-in player launch
+PASS | Player subtitle picker
+PASS | Local download copy
+PASS | Download progress
+PASS | Light theme choice
+PASS | Extension URL auto builder
+PASS | Extension settings
+PASS | No fake One Piece
+PASS | No fake Opera Stream
+PASS | No + Local video label
+PASS | No + Subtitle label
+PASS | No Show Completed
+PASS | single package InkuRuntimeSettings.kt
+PASS | single package ExtensionStore.kt
+PASS | single package DownloadStore.kt
+PASS | single package MediaThumbnail.kt
+PASS | single package InkuWebViewActivity.kt
+PASS | single package LibraryCategoryStore.kt
+PASS | single package InkuBackupStore.kt
+PASS | single package InkuFolderStore.kt
+PASS | single package InkuDownloadService.kt
+PASS | single package LibraryMembershipStore.kt
+PASS | single package InkuPlayerActivity.kt
+PASS | single package MainActivity.kt
+PASS | single package Color.kt
+PASS | single package Theme.kt
+PASS | single package Type.kt
+PASS | No local.properties shipped

@@ -1,0 +1,19 @@
+INKU v13 — EXTENSION COMPATIBILITY
+
+ANIYOMI
+Aniyomi extensions are separate Android APK modules compiled against Aniyomi's
+Tachiyomi/AnimeSource APIs. An installed Aniyomi APK cannot simply be opened by
+Inku because Inku does not contain that host API/runtime. Directly loading the
+APK would be fragile and unsafe, and would not preserve source settings reliably.
+
+YUKIMI / TENKA
+Yukimi's Tenka packages run through Yukimi's Dart/CLI runtime and data model.
+They are not Inku JSON manifests and cannot be executed directly inside this
+Android Compose app.
+
+SUPPORTED PATH
+- Use Inku Extension Builder for public or user-owned sources.
+- Edit selectors in each extension's Settings page.
+- Local Anime and Local Manga work without any web extension.
+- A future compatibility bridge would need a separately implemented and tested
+  adapter for each runtime; this build does not pretend those packages work.

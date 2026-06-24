@@ -1,0 +1,44 @@
+Signature-Version: 1.0
+Created-By: 
+SHA-256-Digest-Manifest: ewnFjw3G0vK6ABTD0+L9SoFkzJHzb9nuTZ4U1PeFeFk=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: lDkr3eU/7k2P1Cz3HuG4MIlF5CppHfG0dtk6irbrfeY=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: TnOHVm35xaZn+1rr0mwXs0r3tX2pZwp69HnLtNVZtnY=
+
+Name: assets/i18n/messages_en.properties
+SHA-256-Digest: V186YijsNUd+Yyi8c8YsSujekrCytfgPYESNfg8ZfoE=
+
+Name: assets/i18n/messages_es.properties
+SHA-256-Digest: bwTAtRy5ncXdojhxiVvTc3ZpdcYwKogN5uBlu5/I3DA=
+
+Name: assets/i18n/messages_pt_br.properties
+SHA-256-Digest: qu1065UKub5Es02hfjldwKJ8O6+lW2i6mRIWH4XV29I=
+
+Name: assets/i18n/messages_ru.properties
+SHA-256-Digest: X0frukDxbE2wkIXjdeJjVVqge1IGj2U1pfzmXZtgFi0=
+
+Name: classes.dex
+SHA-256-Digest: /8eKZwfGgR6Hof2sZPXSQXDLImeHM5duLroA5OKnRc4=
+
+Name: res/9w.png
+SHA-256-Digest: /jXWPNUN5UpeMP0lWJtcEgO5vyALX+ofwlwIvSIDmag=
+
+Name: res/FS.png
+SHA-256-Digest: jQjMHZO+8D6OuM+6shOJhivamIPuD4/yHYPU8/k/nRg=
+
+Name: res/RJ.png
+SHA-256-Digest: rxX8SURmJxCBAIBH47cOAQrhGzK1hNlm3fSmhISbU5k=
+
+Name: res/o-.png
+SHA-256-Digest: maNfC3ELS7w917NB512/c/U1owUydYWfYxC0QeNRAJc=
+
+Name: res/yn.png
+SHA-256-Digest: Gv7kYX7/3K4q6OAAhAmHsYHjEJjIbTrSXvMhybNSljw=
+
+Name: resources.arsc
+SHA-256-Digest: gMg3gWCEP9yL6LUgMJmcm1bGQtz32Ud0LevervLidzg=
+

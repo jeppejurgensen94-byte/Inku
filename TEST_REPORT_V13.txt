@@ -1,0 +1,32 @@
+INKU v13 — VALIDATION REPORT
+
+STATIC PROJECT VALIDATION
+- 69 checks passed out of 69.
+- All required project files exist.
+- AndroidManifest.xml parses correctly.
+- InkuPlayerActivity and InkuDownloadService are registered.
+- Media3 player and UI dependencies are present.
+- All Kotlin source files passed lexical string/comment/delimiter checks.
+- Browse Anime/Manga toggle is present.
+- Local Anime and Local Manga Browse sources are present.
+- Library membership filtering is present.
+- Local content/file download copying and progress tracking are present.
+- No preloaded One Piece, Opera Stream or other fake catalog strings remain.
+- The old “Show Completed”, “+ Local video” and “+ Subtitle” labels are absent.
+- No local.properties file or machine-specific Android SDK path is shipped.
+
+BUILD TEST LIMITATION
+A full Gradle assembleDebug was attempted in the generation environment. The
+Gradle wrapper could not download Gradle 9.4.1 because that environment cannot
+reach services.gradle.org. Therefore the final Android compiler/device test must
+run in Android Studio on the user's PC after Gradle Sync.
+
+WHAT TO CHECK ON THE PHONE
+1. First-run folder picker creates the Inku folder structure.
+2. Local titles appear in Browse, not automatically in the library.
+3. Add to library moves the title into Anime/Manga.
+4. Play opens the local movie or episode in the built-in player.
+5. Subtitle selection is available inside the player.
+6. Downloading a local episode shows episode name and percentage in Downloads.
+7. Browse switches cleanly between Anime and Manga.
+8. Light theme changes the visible palette and system-bar icon mode.
